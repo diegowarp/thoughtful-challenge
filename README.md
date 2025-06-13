@@ -75,7 +75,7 @@ print(result)  # Output: "REJECTED"
 The file includes comprehensive test cases that demonstrate all scenarios:
 
 ```bash
-python package_sorter.py
+python main.py
 ```
 
 This will run the built-in test suite showing various package types and their expected classifications.
